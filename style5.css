@@ -7,7 +7,7 @@ body {
     margin: 0; /* space outside element — between element’s border + other elements around */
     padding: 32px;  /*space inside element - between content and border.*/
     background-color: #E7E5E4;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: sans-serif;
   }
 
   
